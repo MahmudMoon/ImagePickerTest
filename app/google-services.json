@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "596634010999",
+    "firebase_url": "https://imageloadercheck.firebaseio.com",
+    "project_id": "imageloadercheck",
+    "storage_bucket": "imageloadercheck.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596634010999:android:67cf422bc812a5b2",
+        "android_client_info": {
+          "package_name": "com.example.moon.imagepickertest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596634010999-s3fhmhkc2negjjjb6995ca24arvbjg0e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.moon.imagepickertest",
+            "certificate_hash": "88d6a0cbc44c4772af7dcac0123619e0540d6c90"
+          }
+        },
+        {
+          "client_id": "596634010999-tgi0g4d4n8t80t4s8o1ogbg665h6355f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOxYOFsaAIBpiyfU3zR-2Y9rghvHTcSFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596634010999-tgi0g4d4n8t80t4s8o1ogbg665h6355f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
